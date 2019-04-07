@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1514637815 source:d:\licenta\cryptopals\detectxor\utils.cpp
+	<vector>
+	<cmath>
+	<cstring>
+	<cctype>
+
+1523100853 source:d:\licenta\cryptopals\repxor\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+

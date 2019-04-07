@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519939606 source:d:\licenta\cryptopals\proj\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fstream>
+	<vector>
+	<cmath>
+	<queue>
+
